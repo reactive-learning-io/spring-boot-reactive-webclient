@@ -43,7 +43,7 @@ curl -X GET 'http://localhost:8080/ip'
 ```
 curl -X POST 'http://localhost:8080/anything'
 ```
-![HTTP POST Call](./resources/HTTP_GET_REQUEST.PNG)
+![HTTP POST Call](./resources/HTTP_POST_REQ.PNG)
 
 ## POST Reqeuest Tracing
 ![HTTP POST TRACING](./resources/HTTP_POST_LOGGING.PNG)
