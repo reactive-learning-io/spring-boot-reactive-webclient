@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: reactive-webclient
+    
+logging:
+  level:
+    root: INFO
+    io.reactive.learning.infra: TRACE
+    io.reactive.learning.filter: TRACE
