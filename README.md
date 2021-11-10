@@ -39,13 +39,13 @@ public WebClient.Builder decorateBuilder(WebClient.Builder builder) {
 ```
 curl -X GET 'http://localhost:8080/ip'
 ```
-![HTTP GET Call](./resources/HTTP_GET_REQUEST.png)
+![HTTP GET Call](./resources/HTTP_GET_REQUEST.PNG)
 
 --- 
 <br />
 
 ## GET Request Tracing
-![HTTP GET TRACING](./resources/HTTP_GET_LOGGING.png)
+![HTTP GET TRACING](./resources/HTTP_GET_LOGGING.PNG)
 
 ---
 <br />
@@ -54,10 +54,10 @@ curl -X GET 'http://localhost:8080/ip'
 ```
 curl -X POST 'http://localhost:8080/anything'
 ```
-![HTTP POST Call](./resources/HTTP_GET_REQUEST.png)
+![HTTP POST Call](./resources/HTTP_GET_REQUEST.PNG)
 
 --- 
 <br />
 
 ## POST Reqeuest Tracing
-![HTTP POST TRACING](./resources/HTTP_POST_LOGGING.png)
+![HTTP POST TRACING](./resources/HTTP_POST_LOGGING.PNG)
